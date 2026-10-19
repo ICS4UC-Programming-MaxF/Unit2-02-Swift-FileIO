@@ -1,0 +1,6 @@
+Line 1 sum: 26
+Line 2 sum: 123
+Line 3 error: "hasNextLine1" is not a valid integer
+Line 4 sum: 14
+Line 5 sum: 4
+Line 6 sum: 5
